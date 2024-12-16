@@ -132,8 +132,8 @@ kubectl apply -f deployment.yaml
 kubectl apply -f service.yaml
 Access the app via the LoadBalancer external IP.
 
-## Live Demo
-Visit the live website: [http://ab84dce2870a143178e10506b9bc0ac6-296380334.us-east-1.elb.amazonaws.com/](http://ab84dce2870a143178e10506b9bc0ac6-296380334.us-east-1.elb.amazonaws.com/)
+## Website
+Visit the live website: https://aidana-devops.github.io/portfolio-website/
 
 ## Technologies Used
 - Docker
